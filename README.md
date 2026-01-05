@@ -1,3 +1,3 @@
-# 如何使用
+### 如何使用
 ---
-新增你的Discord Webhook URL上去 註解的地方就好
+新增Discord Webhook URL上去 註解標記的地方就好
